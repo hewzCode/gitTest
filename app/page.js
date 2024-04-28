@@ -9,8 +9,8 @@ export default function Home() {
         <p>This is the body p</p>
         
     <main>
-      <h1>welcome</h1>
-      <h2>in africa</h2>
+      <h1>niggas</h1>
+      <h2>in paris</h2>
 
       
     </main>
